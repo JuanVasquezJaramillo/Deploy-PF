@@ -1,0 +1,54 @@
+.cardcontainer {
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  margin: 10px;
+  box-shadow: 2px 2px 5px black;
+  transition: 1s;
+  overflow: hidden;
+  width: 50%;
+}
+
+.cardcontainer:hover {
+  box-shadow: 2px 2px 5px #ffb703;
+}
+
+.link {
+  text-decoration: none;
+  text-align: center;
+}
+
+.userName {
+  font-size: 15px;
+  transition: 1s;
+  width: 100%;
+  color: #000;
+  text-align: center;
+}
+
+.userName:hover {
+  color: #ffb703;
+}
+
+.title {
+  font-size: 15px;
+  text-align: center;
+  color: #000;
+}
+.price {
+  text-align: center;
+  color: #000;
+}
+
+.publicDescription {
+  text-align: center;
+  font-size: small;
+  color: #000;
+}
+
+h2 {
+  text-align: center;
+}

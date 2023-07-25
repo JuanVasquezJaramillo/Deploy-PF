@@ -1,0 +1,9 @@
+.container {
+  background: url(https://images.pexels.com/photos/6593721/pexels-photo-6593721.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
